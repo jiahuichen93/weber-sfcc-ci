@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jiahuichen93/weber-sfcc-ci.git#2.6.7"
+    "url": "git+https://github.com/jiahuichen93/weber-sfcc-ci.git#2.6.8"
   },
   "author": "Tobias Lohr",
   "license": "BSD-3-Clause",
