@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SalesforceCommerceCloud/sfcc-ci.git"
+    "url": "git+https://github.com/jiahuichen93/weber-sfcc-ci.git"
   },
   "author": "Tobias Lohr",
   "license": "BSD-3-Clause",
